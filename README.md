@@ -2,7 +2,11 @@
 
 **Transformer based Generative Adversarial Networks with Style Vector**<br>
 
-![Teaser](docs/lsun_church_generated.png)
+<div align="left">
+  <img src="docs/lsun_church_generated.png" style="float:left" width="200px">
+  <img src="docs/celebA_generated.png" style="float:right" width="150px">
+</div>
+
 
 ## Requirements
 
@@ -89,6 +93,10 @@ python calc_metrics.py --metrics=fid50k_full --data=~/datasets/lsunchurch.zip \
 python calc_metrics.py --metrics=is50k --data=~/datasets/lsunchurch.zip \
     --network=path_to_pretrained_lsunchurch_pkl_file    
 ```
+
+## Citation
+
+
 
 
 The code is heavely based on the [stylegan2-ada-pytorch implementation](https://github.com/NVlabs/stylegan2-ada-pytorch)
