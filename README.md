@@ -2,7 +2,7 @@
 
 **Transformer based Generative Adversarial Networks with Style Vector**<br>
 
-![Teaser](docs/lsun_church_generated.png)
+![Teaser](docs/lsun_church_generated.png, docs/celebA_generated.png)
 
 ## Requirements
 
