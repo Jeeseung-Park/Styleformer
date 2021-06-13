@@ -3,8 +3,8 @@
 **Transformer based Generative Adversarial Networks with Style Vector**<br>
 
 <div align="left">
-  <img src="docs/lsun_church_generated.png" style="float:left" width="200px">
-  <img src="docs/celebA_generated.png" style="float:right" width="150px">
+  <img src="docs/lsun_church_generated.png" style="float:left" width="300px">
+  <img src="docs/celebA_generated.png" style="float:right" width="200px">
 </div>
 
 
