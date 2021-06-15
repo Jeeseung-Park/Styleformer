@@ -1,6 +1,6 @@
 ## Styleformer -- Official PyTorch implementation
 
-**Styleformer: Transformer based Generative Adversarial Networks with Style Vector**<br>(https://arxiv.org/abs/2106.07023)
+**[Styleformer: Transformer based Generative Adversarial Networks with Style Vector](https://arxiv.org/abs/2106.07023)
 
 <div align="left">
   <img src="docs/lsun_church_generated.png" style="float:left" width="250px">
