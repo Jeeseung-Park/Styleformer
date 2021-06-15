@@ -2,8 +2,6 @@
 
 **Styleformer: Transformer based Generative Adversarial Networks with Style Vector**(https://arxiv.org/abs/2106.07023)
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/image-generators-with-conditionally/image-generation-on-stl-10)](https://paperswithcode.com/sota/image-generation-on-stl-10)
-
 
 <div align="left">
   <img src="docs/lsun_church_generated.png" style="float:left" width="250px">
