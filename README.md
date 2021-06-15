@@ -112,5 +112,5 @@ python calc_metrics.py --metrics=is50k --data=~/datasets/lsunchurch.zip \
 
 
 
-The code is heavely based on the [stylegan2-ada-pytorch implementation](https://github.com/NVlabs/stylegan2-ada-pytorch)
+The code is heavily based on the [stylegan2-ada-pytorch implementation](https://github.com/NVlabs/stylegan2-ada-pytorch)
 
