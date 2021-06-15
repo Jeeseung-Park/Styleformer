@@ -3,7 +3,6 @@
 **Styleformer: Transformer based Generative Adversarial Networks with Style Vector**(https://arxiv.org/abs/2106.07023)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/styleformer-transformer-based-generative/image-generation-on-celeba-64x64)](https://paperswithcode.com/sota/image-generation-on-celeba-64x64?p=styleformer-transformer-based-generative)
-
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/styleformer-transformer-based-generative/image-generation-on-stl-10)](https://paperswithcode.com/sota/image-generation-on-stl-10?p=styleformer-transformer-based-generative)
 
 <div align="left">
