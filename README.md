@@ -108,7 +108,17 @@ python calc_metrics.py --metrics=is50k --data=~/datasets/lsunchurch.zip \
 ```
 
 ## Citation
-
+If you found our work useful, please don't forget to cite
+```
+@misc{park2021styleformer,
+      title={Styleformer: Transformer based Generative Adversarial Networks with Style Vector}, 
+      author={Jeeseung Park and Younggeun Kim},
+      year={2021},
+      eprint={2106.07023},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 
 
 
