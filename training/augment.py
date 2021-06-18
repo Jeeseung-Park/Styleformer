@@ -199,8 +199,6 @@ class AugmentPipe(torch.nn.Module):
             self._p = self.p.clamp(0, 0.7)
         else:
             self._p = self.p
-        print("p",self.p)
-        print("_p",self._p)
         
         # Apply x-flip with probability (xflip * strength).
         if self.xflip > 0:
