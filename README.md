@@ -7,7 +7,7 @@
 
 <div align="left">
   <img src="docs/lsun_church_generated.png" style="float:left" width="250px">
-  <img src="docs/celebA_generated.png" style="float:right" width="250px">
+  <img src="docs/celebA_generated.png" style="float:right" width="250px"> 
 </div>
 
 
