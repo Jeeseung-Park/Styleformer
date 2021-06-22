@@ -171,10 +171,10 @@ def modulated_channel_attention(x, q_weight, k_weight, v_weight, w_weight, u_wei
     u = u * styles2.reshape(batch_size, 1, -1)
     u_dcoefs = (u.square().sum(dim=[2]) + 1e-8).rsqrt()
     
-    #skip = torch.matmul(skip, u_weight.t().to(x.dtype))
-    #skip = skip * u_dcoefs.to(x.dtype).reshape(batch_size, 1, -1)
+    skip = torch.matmul(skip, u_weight.t().to(x.dtype))
+    skip = skip * u_dcoefs.to(x.dtype).reshape(batch_size, 1, -1)
     
-    x = x #+ skip
+    x = x + skip
 
     return x        
 
