@@ -93,7 +93,7 @@ python train.py --outdir=~/training-runs --data=~/mydataset.zip --gpus=1 --batch
 * `--linformer=1` apply informer to Styleformer.
 
 Please refer to [`python train.py --help`](./docs/train-help.txt) for the full list. 
-To train STL-10 dataset with same setting at paper, please fix the starting resolution 8{\times}8 to 12{\times}12 at training/networks_Generator.py.
+To train STL-10 dataset with same setting at paper, please fix the starting resolution $8\times8$ to $12\times12$ at training/networks_Generator.py.
 
 
 
