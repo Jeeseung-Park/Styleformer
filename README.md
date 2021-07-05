@@ -22,8 +22,8 @@
 [CIFAR-10](https://drive.google.com/file/d/1z7sNrq_iGXgt3Tzl3NxRTEXHKdw_AzSZ/view?usp=sharing)
 Styleformer-Large with FID 2.82 IS 9.94
 
-[STL-10](https://drive.google.com/file/d/1NWjfBfJDDjT3DyGM2_lB4F815xPNiAKg/view?usp=sharing)
-Styleformer-Medium with FID 20.11 IS 10.16 
+[STL-10](https://drive.google.com/file/d/1fpWR9sOQA5KApeGlP7hWTi8S6bpcn5Bt/view?usp=sharing)
+Styleformer-Medium with FID 15.17 IS 11.01 
 
 [CelebA](https://drive.google.com/file/d/1nyYxhRKE-kNMFRO5Ijx8N_1KOSX5jh_V/view?usp=sharing)
 Styleformer-Linformer with FID 3.66
