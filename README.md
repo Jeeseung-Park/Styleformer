@@ -1,14 +1,12 @@
 ## [CVPR 2022] Styleformer - Official PyTorch implementation
 
-**Styleformer: Transformer based Generative Adversarial Networks with Style Vector**
-
-Jeeseung Park, Younggeun Kim
+**Styleformer: Transformer based Generative Adversarial Networks with Style Vector**<br>
+Jeeseung Park, Younggeun Kim<br>
 https://arxiv.org/abs/2106.07023
 
-Abstract: 
-We propose Styleformer, a generator that synthesizes image using style vectors based on the Transformer structure. In this paper, we effectively apply the modified Transformer structure (e.g., Increased multi-head attention and Pre-layer normalization) and attention style injection which is style modulation and demodulation method for self-attention operation. The new generator components have strengths in CNN's shortcomings, handling long-range dependency and understanding global structure of objects. We propose two methods to generate high-resolution images using Styleformer.
+Abstract: *We propose Styleformer, a generator that synthesizes image using style vectors based on the Transformer structure. In this paper, we effectively apply the modified Transformer structure (e.g., Increased multi-head attention and Pre-layer normalization) and attention style injection which is style modulation and demodulation method for self-attention operation. The new generator components have strengths in CNN's shortcomings, handling long-range dependency and understanding global structure of objects. We propose two methods to generate high-resolution images using Styleformer.
 First, we apply Linformer in the field of visual synthesis (Styleformer-L), enabling Styleformer to generate higher resolution images and result in improvements in terms of computation cost and performance. This is the first case using Linformer to image generation. Second, we combine Styleformer and StyleGAN2 (Styleformer-C) to generate high-resolution compositional scene efficiently, which Styleformer captures long-range-dependencies between components.
-With these adaptations, Styleformer achieves comparable performances to state-of-the-art in both single and multi-object datasets. Furthermore, groundbreaking results from style mixing and attention map visualization demonstrate the advantages and efficiency of our model.
+With these adaptations, Styleformer achieves comparable performances to state-of-the-art in both single and multi-object datasets. Furthermore, groundbreaking results from style mixing and attention map visualization demonstrate the advantages and efficiency of our model.*
 
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/styleformer-transformer-based-generative/image-generation-on-celeba-64x64)](https://paperswithcode.com/sota/image-generation-on-celeba-64x64?p=styleformer-transformer-based-generative)
