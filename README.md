@@ -1,6 +1,6 @@
 ## [CVPR 2022] Styleformer - Official PyTorch implementation
 
-![Teaser image](./docs/style_mixing.pdf)
+![Teaserd image](./docs/style_mixing.pdf)
 
 **Styleformer: Transformer based Generative Adversarial Networks with Style Vector**<br>
 Jeeseung Park, Younggeun Kim<br>
