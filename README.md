@@ -2,6 +2,11 @@
 
 ![Teaser image](./docs/style_mixing.png)
 
+![architecture_image](./docs/overall_architecture.png)
+![cityscape_image](./docs/cityscape_paper.png)
+
+
+
 **Styleformer: Transformer based Generative Adversarial Networks with Style Vector**<br>
 Jeeseung Park, Younggeun Kim<br>
 https://arxiv.org/abs/2106.07023
@@ -13,11 +18,6 @@ With these adaptations, Styleformer achieves comparable performances to state-of
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/styleformer-transformer-based-generative/image-generation-on-celeba-64x64)](https://paperswithcode.com/sota/image-generation-on-celeba-64x64?p=styleformer-transformer-based-generative)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/styleformer-transformer-based-generative/image-generation-on-stl-10)](https://paperswithcode.com/sota/image-generation-on-stl-10?p=styleformer-transformer-based-generative)
-
-<div align="left">
-  <img src="docs/overall_architecture.png" style="float:left" width="250px">
-  <img src="docs/cityscape_paper.png" style="float:right" width="250px"> 
-</div>
 
 
 ## Requirements
