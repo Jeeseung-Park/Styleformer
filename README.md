@@ -1,4 +1,4 @@
-## Styleformer -- Official PyTorch implementation
+## [CVPR 2022] Styleformer -- Official PyTorch implementation
 
 **Styleformer: Transformer based Generative Adversarial Networks with Style Vector**(https://arxiv.org/abs/2106.07023)
 
