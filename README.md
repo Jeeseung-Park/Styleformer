@@ -15,8 +15,8 @@ With these adaptations, Styleformer achieves comparable performances to state-of
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/styleformer-transformer-based-generative/image-generation-on-stl-10)](https://paperswithcode.com/sota/image-generation-on-stl-10?p=styleformer-transformer-based-generative)
 
 <div align="left">
-  <img src="docs/lsun_church_generated.png" style="float:left" width="250px">
-  <img src="docs/celebA_generated.png" style="float:right" width="250px"> 
+  <img src="docs/overall_architecture.png" style="float:left" width="250px">
+  <img src="docs/cityscape_paper.png" style="float:right" width="250px"> 
 </div>
 
 
