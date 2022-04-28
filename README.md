@@ -62,14 +62,14 @@ python dataset_tool.py --source=~/downloads/cifar-10-python.tar.gz --dest=~/data
 **STL-10**: Download the stl-10 dataset 5k training, 100k unlabeled images from [STL-10 dataset page](https://cs.stanford.edu/~acoates/stl10/) and convert to ZIP archive:
 
 ```.bash
-python dataset_tool.py --source=~/downloads/cifar-10-python.tar.gz --dest=~/datasets/stl10.zip \
+python dataset_tool.py --source=~/downloads/~ --dest=~/datasets/stl10.zip \
     ---width=48 --height=48
 ```
 
 **CelebA**: Download the CelebA dataset Aligned&Cropped Images from [CelebA dataset page](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) and convert to ZIP archive:
 
 ```.bash
-python dataset_tool.py --source=~/downloads/cifar-10-python.tar.gz --dest=~/datasets/stl10.zip \
+python dataset_tool.py --source=~/downloads/~--dest=~/datasets/stl10.zip \
     ---width=64 --height=64
 ```
 
